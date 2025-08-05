@@ -1,0 +1,10 @@
+*.json
+.vscode
+.idea
+.DS_Store
+__pycache__
+*.pyc
+experience/*
+info/*
+*.egg-info
+build
