@@ -1,6 +1,6 @@
-# License
+![Whisk_d5acc9d2f9](https://github.com/user-attachments/assets/a4bde47f-de0d-4d13-a054-555a5bf332c1)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 # ResumeModule
 
 A Python module for processing resume markdown files into JSON and HOCON formats.
@@ -96,4 +96,7 @@ python -m resumemodule --output my_resume.json
 python -m resumemodule -o my_resume.json
 ```
 
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
